@@ -1,4 +1,4 @@
-Installs modules for presets and plugins listed in `.babelrc`
+Installs modules (in `node_modules` and adds to `package.json`) for presets and plugins listed in `.babelrc`
 
 ## Install
 
