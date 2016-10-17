@@ -1,0 +1,23 @@
+{
+  "name": "babelrc-install",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "build": "babel-changed src -d ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-changed": "^6.0.0",
+    "babel-cli": "^6.16.0",
+    "babel-plugin-transform-runtime": "^6.15.0",
+    "babel-preset-latest": "^6.16.0"
+  },
+  "dependencies": {
+    "isobject": "^2.1.0",
+    "json-update": "^3.0.0",
+    "pty.js": "^0.3.1"
+  }
+}
