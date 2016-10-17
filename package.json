@@ -7,8 +7,9 @@
   "scripts": {
     "build": "babel-changed src -d ."
   },
-  "author": "",
+  "author": "Jason Livesay",
   "license": "ISC",
+  "repository": "runvnc/babelrc-install",
   "devDependencies": {
     "babel-changed": "^6.0.0",
     "babel-cli": "^6.16.0",
