@@ -17,6 +17,7 @@
     "babel-preset-latest": "^6.16.0"
   },
   "dependencies": {
+    "babel-runtime": "^6.11.6",
     "isobject": "^2.1.0",
     "json-update": "^3.0.0",
     "pty.js": "^0.3.1"
